@@ -1,0 +1,23 @@
+{
+  "name": "localhost-lib",
+  "version": "1.0.0",
+  "description": "Make localhost calls easy",
+  "main": "localhost-lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undeinf/localhost-api.git"
+  },
+  "keywords": [
+    "localhost",
+    "api"
+  ],
+  "author": "Kamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/undeinf/localhost-api/issues"
+  },
+  "homepage": "https://github.com/undeinf/localhost-api#readme"
+}
